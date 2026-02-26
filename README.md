@@ -8,7 +8,7 @@ Os dados são mantidos em memória utilizando lista de dicionários, permitindo 
 
 # Funcionalidades
 
-     • Menu interativo via terminal
+    • Menu interativo via terminal
     • Cadastro de clientes
     • Listagem de registros
     • Organização do código em funções
