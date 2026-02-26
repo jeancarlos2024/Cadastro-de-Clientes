@@ -8,15 +8,13 @@ Os dados são mantidos em memória utilizando lista de dicionários, permitindo 
 
 # Funcionalidades
 
-    • Menu interativo via terminal
+     • Menu interativo via terminal
     • Cadastro de clientes
     • Listagem de registros
     • Organização do código em funções
-    
- # Objetivo
- 
-Aplicar de forma prática os conceitos estudados em lógica e algoritmos, fortalecendo a base necessária para evoluir para projetos mais estruturados e ambientes reais de desenvolvimento.
-
+    • Validação de dados
+    • Controle de duplicidade
+  
 # Execução
 
 python Cadastro_de_clientes.py
