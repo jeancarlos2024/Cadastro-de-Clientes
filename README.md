@@ -1,7 +1,6 @@
 # Sistema de Cadastro de Clientes
 
-Aplicação criada para praticar lógica de programação, controle de fluxo e estruturação de funções, simulando um sistema simples de cadastro operado via terminal.
-Este projeto representa uma etapa inicial importante na construção da minha base técnica.
+Aplicação desenvolvida com ênfase em organização de código, controle de fluxo e estruturação funcional, simulando um sistema simples de cadastro via terminal.
 
 # Funcionalidades
 
